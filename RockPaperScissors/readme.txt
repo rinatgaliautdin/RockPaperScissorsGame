@@ -1,4 +1,4 @@
-Rock-Paper-Scissors Game (test task)
+Rock-Paper-Scissors Game (test task for Mavericks Consulting, http://mavericks-consulting.com)
 
 Used .NET Core 2.2
 
